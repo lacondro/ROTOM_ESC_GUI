@@ -1,0 +1,3 @@
+([('ROTOM CONTROL',
+   '/Users/minku/Projects/ROTOM_CONTROL/dist/ROTOM CONTROL',
+   'EXECUTABLE')],)

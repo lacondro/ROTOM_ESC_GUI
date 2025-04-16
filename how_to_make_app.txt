@@ -1,0 +1,3 @@
+pyinstaller realtime_gui.spec
+
+//pyinstaller -w -F realtime_gui.py
